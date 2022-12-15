@@ -13,7 +13,7 @@
       "src"
     ],
     "ext": "ts",
-    "exec": "ts-node -r dotenv/config src/server.ts"
+    "exec": "ts-node -r dotenv/config src/services/teste.ts"
   },
   "keywords": [],
   "author": "",
