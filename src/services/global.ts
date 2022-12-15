@@ -1,5 +1,4 @@
 global.test = (desc: string, testCall: () => void) => {
-  console.log(1);
   try {
     testCall();
     console.log(`✓ ${desc}`);
